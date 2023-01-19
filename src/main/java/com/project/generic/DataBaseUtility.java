@@ -7,7 +7,7 @@ public class DataBaseUtility {
 	
 	public void connectToDB() {
 		
-		
+		System.out.println();
 		
 		
 		
