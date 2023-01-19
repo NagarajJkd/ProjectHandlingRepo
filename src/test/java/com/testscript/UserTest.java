@@ -7,6 +7,10 @@ public class UserTest {
 	@Test
 	public void loginApplication() {
 		Reporter.log("App launch and click on login");
+		
+		
+		
+		System.out.println("click");
 	}
 
 }
