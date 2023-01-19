@@ -12,6 +12,7 @@ public class DataBaseUtility {
 		
 		
 		
+		
 		Reporter.log("Connecting to the data base", true);
 		
 		
