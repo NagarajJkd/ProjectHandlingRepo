@@ -9,5 +9,7 @@ public class UserModule {
 	public void userLogin() {
 		
 		Reporter.log("User login is success");
+		Repoter.log("Launch the application");
+		Repoter.log("");
 	}
 }
