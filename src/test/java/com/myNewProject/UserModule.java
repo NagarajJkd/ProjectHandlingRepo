@@ -1,15 +1,14 @@
 package com.myNewProject;
 
-import org.testng.Reporter;
 import org.testng.annotations.Test;
 
 public class UserModule {
 
 	@Test
-	public void userLogin() {
+	public void userLogin()
+	{
+		System.out.println("name plz");
 		
-		Reporter.log("User login is success");
-		Repoter.log("Launch the application");
-		Repoter.log("");
+		
 	}
 }
